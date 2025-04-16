@@ -20,6 +20,6 @@ Play against a bot for 10 rounds — or quit any time!
 
 This game uses only base R — just copy and play!
 
-## 📸 Demo (Optional GIF or Screenshot)
+## 📸 Demo 
 ![image](https://github.com/user-attachments/assets/41227916-a326-4146-91df-2f0d8bba6867)
 
