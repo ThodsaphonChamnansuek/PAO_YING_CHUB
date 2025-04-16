@@ -6,13 +6,13 @@ play_game <- function(){
   
   player_score <- 0
   bot_score <- 0
-  round_results <- c()  # ใช้เก็บผลของแต่ละรอบ
+  round_results <- c()  # ใช้เก็บคะแนนแต่ละรอบ
   
   for(round in 1:10) {
     cat("\nRound", round, "\n")
     bot_hand <- sample(hands, 1)  # บอทสุ่มมือ
     
-    # รับค่ามือของผู้เล่น
+    # รับค่าของผู้เล่น
     player_hand <- readline("Please choose one option: rock, scissor, paper or type 'quit' to exit: ")
     
     # ตรวจสอบว่าผู้เล่นต้องการออกจากเกม
@@ -48,7 +48,7 @@ play_game <- function(){
     }
   }
   
-  # แสดงผลลัพธ์สุดท้าย
+  # แสดงผลลัพธ์
   cat("\nGame Over! Final Score - Player:", player_score, "Bot:", bot_score, "\n\n")
   
   # แสดงสรุปผลแต่ละรอบ
