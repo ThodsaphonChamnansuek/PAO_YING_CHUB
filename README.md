@@ -1,4 +1,4 @@
-# 🪨✂️📄 Pao Ying Chub (เป่ายิ้งฉุบ) Game in R
+![PAO_YING_CHUB](https://github.com/user-attachments/assets/5d62d17d-fd72-420a-8239-2eace227ef48)# 🪨✂️📄 Pao Ying Chub (เป่ายิ้งฉุบ) Game in R
 
 A simple terminal-based game of Rock-Paper-Scissors written in R.  
 Play against a bot for 10 rounds — or quit any time!
@@ -22,4 +22,5 @@ Play against a bot for 10 rounds — or quit any time!
 This game uses only base R — just copy and play!
 
 ## 📸 Demo (Optional GIF or Screenshot)
-_Add a screenshot of your terminal output here to make it more fun_
+![image](https://github.com/user-attachments/assets/41227916-a326-4146-91df-2f0d8bba6867)
+
