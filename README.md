@@ -1,4 +1,5 @@
- A simple terminal-based game of Rock-Paper-Scissors written in R.  
+# 🪨✂️📄 Pao Ying Chub (เป่ายิ้งฉุบ) Game in R
+A simple terminal-based game of Rock-Paper-Scissors written in R.  
 Play against a bot for 10 rounds — or quit any time!
 
 ## 🎮 How to Play
