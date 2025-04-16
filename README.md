@@ -1,5 +1,3 @@
-# PAO_YING_CHUB
- Rock Paper Scissors ✊🖐️✌️
 ##PAO YING CHUB
 ##game pao ying chub
 play_game <- function(){
