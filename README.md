@@ -31,3 +31,10 @@ This game uses only base R — just copy and play!
 ## 📸 Demo 
 ![PAO_YING_CHUB](images/PAO_YING_CHUB.jpg)
 
+---
+
+## 📬 Connect with Me
+
+- 📧 [Email](mailto:thodsaphol.cha@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thodsaphon-chamnansuek-318642355)   
+
